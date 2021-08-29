@@ -7,7 +7,7 @@ function search($url){
         if( strpos($val, "<a href=") !== FALSE ){
             $val = preg_replace("/.*<a\s+href=\"/sm","",$val);
             $val = preg_replace("/\".*/","",$val);
-            echo $val . "\n";
+            echo $url.$val . "\n";
         
         }
     }    
