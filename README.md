@@ -5,8 +5,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[license-url]: https://github.com/R0LL0/php-useful-scripts/blob/main/LICENSE
 
 
 <!-- PROJECT SHIELDS -->
