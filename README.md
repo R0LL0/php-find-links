@@ -107,7 +107,7 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/r0llo/php-useful-scripts](https://github.com/r0llo/php-useful-scripts)
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS 
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -119,3 +119,4 @@ Project Link: [https://github.com/r0llo/php-useful-scripts](https://github.com/r
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
+-->
